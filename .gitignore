@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# 数据与输出
+data_cache/
+output/
+logs/
+
+# 配置（含密钥）
+config.yaml
+config.local.yaml
+.env
+
+# 系统
+.DS_Store
+Thumbs.db
